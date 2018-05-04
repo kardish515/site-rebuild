@@ -7,6 +7,7 @@ import { TitleComponent } from './title/title.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { NewsStoriesComponent } from './news-stories/news-stories.component';
 import { OpinionComponent } from './opinion/opinion.component';
+import { HeaderComponent } from './header/header.component';
 
 
 @NgModule({
@@ -15,7 +16,8 @@ import { OpinionComponent } from './opinion/opinion.component';
     TitleComponent,
     NavbarComponent,
     NewsStoriesComponent,
-    OpinionComponent
+    OpinionComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule
