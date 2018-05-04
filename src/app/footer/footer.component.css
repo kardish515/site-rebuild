@@ -5,3 +5,15 @@ ul{
 .title{
   font-weight: bold;
 }
+.bold{
+  font-weight: bold;
+  font-size: 25px;
+}
+.small{
+  font-size: 11px;
+}
+
+.click:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
