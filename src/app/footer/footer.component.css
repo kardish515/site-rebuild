@@ -17,3 +17,20 @@ ul{
   text-decoration: underline;
   cursor: pointer;
 }
+.below-text{
+  padding-right: 100px;
+}
+.below-text li{
+  display: inline;
+  padding-right: 5px;
+  padding-left: 5px;
+  font-size: 10px;
+  color: grey;
+}
+.below-text2 li{
+  display: inline;
+  padding-right: 5px;
+  padding-left: 5px;
+  font-size: 10px;
+  color: grey;
+}
