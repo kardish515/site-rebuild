@@ -34,3 +34,7 @@ ul{
   font-size: 10px;
   color: grey;
 }
+.top{
+  border-top-style: double;
+  border-color: lightgrey;
+}
