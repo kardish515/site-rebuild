@@ -1,3 +1,5 @@
-<p>
-  news-stories works!
-</p>
+<ul>
+  <li *ngFor="let currentStory of childStoryList">{{currentStory.title}}</li>
+  <li *ngFor="let currentStory of childStoryList">{{currentStory.author}}</li>
+  <li *ngFor="let currentStory of childStoryList">{{currentStory.description}}</li>
+</ul>
