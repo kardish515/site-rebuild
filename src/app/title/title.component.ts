@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./title.component.css']
 })
 export class TitleComponent implements OnInit {
-  const date = new Date();
+  date = new Date();
   displayMonth(date){
     if(date.getMonth() === 0){
       return "January";

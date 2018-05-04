@@ -9,6 +9,7 @@ import { NewsStoriesComponent } from './news-stories/news-stories.component';
 import { OpinionComponent } from './opinion/opinion.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
+import { AdvertisementComponent } from './advertisement/advertisement.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { FooterComponent } from './footer/footer.component';
     NewsStoriesComponent,
     OpinionComponent,
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
+    AdvertisementComponent
   ],
   imports: [
     BrowserModule
