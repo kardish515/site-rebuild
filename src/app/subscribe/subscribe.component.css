@@ -11,3 +11,12 @@
   float: right;
   font-weight: bold;
 }
+
+.line{
+  text-decoration: line-through;
+  text-decoration-color: red;
+}
+
+.box{
+  text-align: center;
+}
