@@ -32,3 +32,26 @@
 .click:hover{
   cursor: pointer;
 }
+.line-through{
+  text-decoration: line-through;
+  text-decoration-color: grey;
+  color: grey;
+}
+
+.basic{
+  border-radius: 25px;
+  background: #26acef;
+  color: white;
+}
+
+.all-access{
+  border-radius: 25px;
+  background: #2f32b7;
+  color: white;
+}
+
+.home-delivery{
+  border-radius: 25px;
+  background: #424244;
+  color: white;
+}
