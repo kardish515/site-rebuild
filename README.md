@@ -10,17 +10,17 @@ A program that is a replication of the New York Times website built from scratch
 
 Basic framework of the New York Times website
 Components for each part of the website
+Routing used to navigate between pages
+Firebase database added to store news story data
 
-**Features to be Added**
 
-News stories with pictures included
-Additional components
-Additional angular features such as pipes
 
 ## Setup/Installation Requirements
 
 * Clone repo
 * Run NPM Install
+* Create api-keys.ts file in src/app folder
+* Insert api key information from firebase into api-keys.ts file
 * Run ng serve --open
 
 ## Technologies Used
