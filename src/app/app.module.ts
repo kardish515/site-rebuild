@@ -14,6 +14,7 @@ import { AngularFireDatabaseModule } from 'angularfire2/database';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { routing } from './app.routing';
 import { LoginComponent } from './login/login.component';
+import { SubscribeComponent } from './subscribe/subscribe.component';
 
 export const firebaseConfig = {
   apiKey: masterFirebaseConfig.apiKey,
@@ -33,7 +34,8 @@ export const firebaseConfig = {
     FooterComponent,
     AdvertisementComponent,
     WelcomeComponent,
-    LoginComponent
+    LoginComponent,
+    SubscribeComponent
   ],
   imports: [
     BrowserModule,

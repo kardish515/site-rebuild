@@ -1,0 +1,13 @@
+.top{
+  text-align: center;
+}
+
+.top li{
+  display: inline;
+  margin: 5px;
+}
+
+.login{
+  float: right;
+  font-weight: bold;
+}
