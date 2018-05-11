@@ -1,3 +1,3 @@
 <ul>
-  <li class="bottom" *ngFor="let story of stories | async">{{story.title}}<br>By {{story.author}}<br>{{story.description}}</li>
+  <li class="bottom" *ngFor="let story of stories | async"><span class="title">{{story.title}}</span><br><span class="author">By {{story.author}}</span><br>{{story.description}}</li>
 </ul>

@@ -2,3 +2,13 @@
   border-bottom-style: double;
   border-color: lightgrey;
 }
+
+.title{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.author{
+  color: lightgrey;
+  font-size: 12px;
+}
