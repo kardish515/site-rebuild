@@ -2,3 +2,14 @@
   color: #fff;
   background-color: #326891;
 }
+.box{
+  border-top: solid grey 1px;
+  border-bottom: solid grey 1px;
+  text-align: center;
+}
+.below{
+  text-align: center;
+}
+li{
+  display: inline;
+}
