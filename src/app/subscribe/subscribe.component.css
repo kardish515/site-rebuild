@@ -20,3 +20,15 @@
 .box{
   text-align: center;
 }
+.near-top{
+  text-align: center;
+}
+
+.click{
+  color: grey;
+  text-decoration: underline;
+}
+
+.click:hover{
+  cursor: pointer;
+}
