@@ -86,3 +86,16 @@
   color: white;
   font-weight: bold;
 }
+
+.pageFooter{
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  background: #252527;
+  color: white;
+  width: 100%;
+}
+
+.foot li{
+  list-style: none;
+}
