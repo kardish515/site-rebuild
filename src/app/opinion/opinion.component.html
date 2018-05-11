@@ -1,1 +1,4 @@
 <p>Opinion</p>
+<ul>
+  <li *ngFor="let opinion of opinions"><span class="title">{{opinion.title}}</span><br><span class="author">By {{opinion.author}}</span><br>{{opinion.description}}</li>
+</ul>
